@@ -1,8 +1,8 @@
 
-# Professional README Generator
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Chasek6/professional-readme-generator)
+# P-README Generator
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/Chasek6/p-readme-generator)
 ## Description
-Professional README Generator
+This project generates a professionally formatted README using the command-line Interface. It produces a professionally formatted markdown document with already predefind sections based on the user input in the command-line questions using Node.js. This project was made to demostrate Node.js and the Inquirer for taking user input inside of the command line.
 ## Table of Contents 
 * [Installation](#installation)
 * [Usage](#usage)
@@ -13,15 +13,15 @@ Professional README Generator
 ## Installation
 To install necessary dependencies, run the following command:
 ```
-npm i
+Just run the project from it's current folder using "node index.js".
 ```
 ## Usage
-Professional README Generator Guide
+When you run the project using "node index.js" from its folder, you will be prompted about the specifications of the README, such as name, description, installation steps, usage, license, tests, how to collaborate, and contact information. For all fields other than license, a user can enter a text input into the command line and the program will write it to the resulting README. The description section will pull up a text editor so that longer descriptions can easily be written. The license section provides choices for the user that will determine the badge, link, and license text in the README.
 ## License
 This project is licensed under the MIT license.
   
 ## Contributing
-ME, MYSELF & I
+when you intially run the project using "node index.js" from it's folder, you'll be promted about the specifications of the README, such as Name, Description, Installation, Steps, Usage, License, Tests, and how the program will write it to the resulting README product. The description section will pull up a text editor so longer descriptions can be easily written. Lastly, the License section will provide choices for the user that will determine the Badge, Link, and License text in the README. . 
 ## Tests
 To run tests, run the following command:
 ```
