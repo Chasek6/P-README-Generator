@@ -22,6 +22,11 @@ const questions = [
   },
   {
     type: "input",
+    name: "Link to View README.md Generator",
+    message: "Link to view video of README.md Generator"
+  },
+  {
+    type: "input",
     name: "title",
     message: "What is your project's name?"
   },
